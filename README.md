@@ -5,4 +5,4 @@ Repository for the third homework of Algorithmic Methods of Data Mining and Labo
 
 In the `main` you can find all the code regarding the exercices.
 
-In the 
+In the `CommandLine.sh` you can find the answer to the command line question.
